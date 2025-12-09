@@ -1,0 +1,4 @@
+[submodule "src/InsManager_module"]
+	path = src/InsManager_module
+	url = git@bjrdgit.rigoltech.com:modularins/instrument_capnp_ts.git
+	branch = master
